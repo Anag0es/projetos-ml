@@ -25,7 +25,7 @@ Técnica em Desenvolvimento de Sistemas, Bacharelado em Ciência da Computação
 
 ## Recursos Adicionais 📚
 - Documentação Python;
-- Em cada projeto terá suas especificações e indicações de leitura.
+- Em cada projeto terá um documento com suas especificações e indicações de leitura. (doc.md)
 
 ## Contato 📞
 Você pode entrar em contato comigo
